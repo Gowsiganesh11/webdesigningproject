@@ -1,0 +1,349 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#first{
+    display: flex;
+    text-align: center;
+    background-color: black;
+    height:50px;
+    padding-left: 39%;
+    padding-bottom: 10px;
+    
+}
+#first button{
+    background-color:rgb(241, 81, 89);
+    border-radius:15px;
+    width: 100px;
+    color:white;
+    padding:auto;
+}
+#first h4{
+    color: rgb(244, 248, 252);
+    padding-top: 20px;
+    padding-left:10px;
+}
+.container{
+    background:url(man-g57e54cd95_1920.jpg) no-repeat;
+   
+    min-height: 100vh;
+    min-width: 100%;
+    color: rgb(7, 4, 4);
+    background-image: cover;
+    background-position:center;
+}
+h3{
+    color:white;
+    margin-left: 65px;
+    
+}
+header a{
+    text-decoration: none;
+    color: white;
+    padding: 3em;
+}
+header{
+    display: flex;
+    background-color:rgb(241, 81, 89);
+    height: 10%;
+    
+
+}
+#logo
+{
+    flex:1;
+    font-size: large;
+    margin-top:10px;
+}
+nav{
+    text-align: right;
+    margin-top:10px;
+    }
+#head
+{
+    color:white;
+    margin-left: 60px;
+    margin-top: 120px;
+
+}
+#head  h1{
+    font-size: 60px;
+}
+#head  p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    line-height: 23px;
+}
+#head button
+{
+    font-size: 20px;
+    margin-top: 15px;
+}
+.main{
+    display: flex;
+}
+.main .i  {
+    margin-left: 50px;
+    text-transform: uppercase;
+    padding: 10px;
+    font-size: 20px;
+    flex:6;
+    padding: 35px;
+    font-family:Roboto;
+    
+}
+.i h1{
+    font-size:30px;
+    padding:10px;
+    text-transform:capitalize;
+    margin-left: 0px;
+
+
+}
+
+.main p{
+    flex:6;
+    padding: 15px;
+}
+
+.box-header{
+    display: flex;
+}
+
+.box{
+    flex:4;
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    color: aliceblue;
+    border: 2px solid white;
+    padding-top: 5px;
+   font-size: 20px;
+   text-align: center;
+}
+.box h1{
+    text-align: left;
+}
+.box2{
+    flex:4;
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    color: aliceblue;
+    border: 2px solid white;
+    padding-top: 5px;
+   font-size: 20px;
+   text-align: center;
+}
+.box2 h1{
+    text-align: left;
+}
+   
+   
+
+.box3{
+    flex:4;
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    color: aliceblue;
+    border: 2px solid white;
+    padding-top: 5px;
+    font-size: 20px;
+    text-align: center;
+ }
+ .box3 h1{
+     text-align: left;
+ }
+#row{
+    display: flex;
+   margin-top: 20px;
+   width: 1300px;
+   padding: 10px;
+   height: 100px;
+ 
+    
+}
+.para1{
+    text-align: center;
+    margin-left: 0%;
+
+
+}
+.ll{
+    background-image: url(man.jpg);
+     background-position: center;
+    height: 500px;
+   
+   
+   
+}
+.ll h1{
+    text-align: right;
+    font-size: 40px;
+    color: aliceblue;
+    padding-top: 140px;
+    padding-right: 45px;
+    
+   
+
+}
+.ll {
+    text-align: right;
+    
+}
+.ll p{
+   
+    font-size: 20px;
+    color: aliceblue;
+    
+    padding-right: 45px;
+}
+.ll button{
+  
+  margin-right: 45px;
+  font-size: 20px;
+  padding: 5px;
+  
+} 
+.cc h4{
+    font-size: 20px;
+    color: rgb(59, 60, 61);
+    margin-top: 40px;
+}
+.cc h1{
+    font-size: 40px;
+    color: rgb(6, 7, 7);
+    margin-top: 20px;
+
+}
+.coll{
+    display: flex;
+    padding: 10px;
+
+    
+}
+.coll #i1{
+    
+    flex:1;
+    height: 200px;
+    width: 30px;
+    padding: 10px;
+}
+.coll #i2{
+    flex:1;
+    height: 200px;
+    width: 30px;
+    padding: 10px;
+}
+.coll #i3{
+    flex:1;
+    height: 200px;
+    width: 30px;
+    padding: 10px;
+}
+.coll2{
+    display: flex;
+    font-size: 25px;
+    justify-content: center;
+   
+  
+    line-height: 50px;
+}
+.coll2 #c1{
+    flex:1;
+    padding-left:200px;
+   
+}
+.coll2 #c2{
+    flex:1;
+}
+.coll2 #c3{
+    flex:1;
+    padding-left: 60px;
+    
+    
+   
+}
+.coll2 button{
+    font-size: 20px;
+    margin-left: 25px;
+    background-color: brown;
+    font-size: 20px;
+    color: aliceblue;
+}
+#app{
+    background-image: url("frd.jpg");
+    background-position: center;
+    height: 500px;
+    padding-top: 130px;
+    color: aliceblue;
+    padding-left: 70px;
+   
+    
+}
+#app h1{
+    font-size: 60px;
+    color: rgb(15, 14, 14);
+}
+
+
+#app button{
+    font-size: 25px;
+    color: rgb(12, 13, 14);
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+#app button:hover{
+    background-color: brown;
+    
+    
+}
+#app2{
+    text-align: center;
+    margin-top: 40px;
+    line-height: 40px;
+    color: rgb(49, 105, 151);
+
+}
+#app2 p{
+    line-height: 25px;
+    font-size: 20px;
+}
+
+#footer{
+    margin-top: 15px;
+    display: flex;
+    padding-left: 10px;
+   
+}
+.about-column {
+    line-height: 25px;
+    padding-left: 15px;
+    margin-left:40px ;
+
+}
+.about-column p{
+    text-align: justify;
+    width:200px;
+}
+.paras {
+    margin-top: 30px;
+    text-align: justify;
+    width: 800px;
+    float:right;
+    color: aliceblue;
+    background-color: black;
+    padding: 60px;
+    padding-left: 80px;
+    align-items: center;
+    margin-right: 10%;
+}
+.photo{
+    position: absolute;
+    padding-left: 100px;
+    height: 350px;
+    width: 250px;
+    margin-top: 50px;
+}
